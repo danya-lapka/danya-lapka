@@ -2,7 +2,7 @@
 
 ## Repositories
 + [Lapka](https://github.com/danya-lapka/lapka) - Next.js website
-+ [Lapka-UI](https://github.com/danya-lapka/lapka-ui) - Vue ui library
++ [Lapka-UI](https://github.com/danya-lapka/lapka-ui) - Vue.js ui library
 
 ## Skills
 ![Figma](https://img.shields.io/badge/figma-da?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&color=black)
