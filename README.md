@@ -1,7 +1,7 @@
 # Hi👋, I'm Daniel
 
 ## Repositories
-+ My website - [Next.js](https://github.com/danya-lapka/lapka-next) [Vue.js](https://github.com/danya-lapka/lapka-vue)
++ My website - [Next.js](https://github.com/danya-lapka/lapka-next) [Nuxt](https://github.com/danya-lapka/lapka-nuxt)
 + [Lapka-UI](https://github.com/danya-lapka/lapka-ui) - Vue.js ui library
 
 ## Skills
