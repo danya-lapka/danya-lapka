@@ -4,6 +4,7 @@
 + My website
   - [Next.js](https://github.com/danya-lapka/lapka-next)
   - [Nuxt](https://github.com/danya-lapka/lapka-nuxt)
++ [Lapka-UI](https://github.com/danya-lapka/lapka-ui) - ui framework
 
 ## Skills
 ![Figma](https://img.shields.io/badge/figma-da?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&color=black)
