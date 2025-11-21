@@ -4,6 +4,7 @@
 + My website
   - [Next.js](https://github.com/danya-lapka/lapka-next)
   - [Nuxt](https://github.com/danya-lapka/lapka-nuxt)
++ [LapkCSS](https://github.com/danya-lapka/lapka-css) - Auto CSS generator
 
 ## Skills
 ![Figma](https://img.shields.io/badge/figma-da?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&color=black)
