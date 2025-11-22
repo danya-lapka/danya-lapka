@@ -4,7 +4,7 @@
 + My website
   - [Next.js](https://github.com/danya-lapka/lapka-next)
   - [Nuxt](https://github.com/danya-lapka/lapka-nuxt)
-+ [LapkaCSS](https://github.com/danya-lapka/lapka-css) - Auto CSS generator
++ [LapkaCSS](https://github.com/danya-lapka/lapka-css) [npm](https://www.npmjs.com/package/lapka-css) - Auto CSS generator 
 
 ## Skills
 ![Resources](https://skillicons.dev/icons?i=figma,supabase,vercel,vscode)
