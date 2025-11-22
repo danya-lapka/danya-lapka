@@ -7,7 +7,7 @@
 + [LapkaCSS](https://github.com/danya-lapka/lapka-css) - Auto CSS generator
 
 ## Skills
-![Web sites](https://skillicons.dev/icons?i=figma,supabase)
+![Resources](https://skillicons.dev/icons?i=figma,supabase,vercel,vscode)
 
 ![Web](https://skillicons.dev/icons?i=typescript,sass,nextjs,nuxtjs)
 
