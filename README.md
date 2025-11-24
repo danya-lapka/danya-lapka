@@ -4,7 +4,6 @@
 + My website
   - [Next.js](https://github.com/danya-lapka/lapka-next)
   - [Nuxt](https://github.com/danya-lapka/lapka-nuxt)
-+ [CSS generator](https://github.com/danya-lapka/css)
 
 ## Skills
 ![Resources](https://skillicons.dev/icons?i=figma,supabase,vercel,vscode)
